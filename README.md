@@ -17,6 +17,14 @@
 
 ---
 
+#### Palindrome
+
+:fire: ***Task:*** You should write a function that takes a word or phrase as an argument and outputs a palindrome of it, or not.
+
+---
+
+
+
 
 
 
