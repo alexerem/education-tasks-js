@@ -23,7 +23,13 @@
 
 ---
 
+#### Anagram
 
+:fire: ***Task:*** You should write a function that takes two words as an argument and outputs the result anagram it or not.
+
+:construction: ***Addition:*** [Wikipedia: Anagram is...](https://en.wikipedia.org/wiki/Anagram)
+
+---
 
 
 
