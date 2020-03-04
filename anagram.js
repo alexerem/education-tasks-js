@@ -22,7 +22,7 @@ function anagram(word1, word2) {
         }
 
     } else {
-        console.log('This is not an anagram!')
+        console.log('This is not an anagram!');
         return false;
     }
 }
