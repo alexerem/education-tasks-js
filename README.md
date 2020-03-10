@@ -7,7 +7,7 @@
 
 :fire: ***Task:*** You must write a function that takes a string as an argument and outputs the number of vowels in that string.
 
-:construction: ***Addition:*** vowels = ['a', 'e', 'i', 'o', 'u']
+:construction: ***Addition: vowels = ['a', 'e', 'i', 'o', 'u']***
 
 ---
 
@@ -27,10 +27,17 @@
 
 :fire: ***Task:*** You should write a function that takes two words as an argument and outputs the result anagram it or not.
 
-:construction: ***Addition:*** [Wikipedia: Anagram is...](https://en.wikipedia.org/wiki/Anagram)
+:construction: ***Addition: [Wikipedia: Anagram is...](https://en.wikipedia.org/wiki/Anagram)***
 
 ---
 
+#### Fibonacci
+
+:fire: ***Task:*** You must write a function that takes as an argument the ordinal number of the "Fibonacci sequence" number and outputs the result - this number.
+
+:construction: ***Addition: [Wikipedia: Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number)***
+
+---
 
 
 
