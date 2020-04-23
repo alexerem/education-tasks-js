@@ -39,5 +39,19 @@
 
 ---
 
+#### LengthOfLastWord
+
+:fire: ***Task:*** You must write a function, which returns the length of the last word of the input string. A word is any sequence that does not contain spaces.
+
+:construction: ***Example:***
+
+> lengthOfLastWord(''); // 0
+
+> lengthOfLastWord('man in BlacK'); // 5
+
+> lengthOfLastWord('hello, world!    '); // 6
+
+---
+
 
 
